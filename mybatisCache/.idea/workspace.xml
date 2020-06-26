@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="edc97de4-ef80-4567-b219-e5234ad30be0" name="Default Changelist" comment="" />
+    <list default="true" id="edc97de4-ef80-4567-b219-e5234ad30be0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class003/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class003/src/main/java/dao/Temp2Dao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class003/src/main/java/entity/TempEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class003/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class003/src/main/resources/mappers/tempMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class003/src/main/resources/mybatis.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class003/src/main/resources/temp.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class003/src/test/java/TempTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class002/class002.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class002/src/main/resources/mybatis.xml" beforeDir="false" afterPath="$PROJECT_DIR$/class002/src/main/resources/mybatis.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class002/target/classes/mybatis.xml" beforeDir="false" afterPath="$PROJECT_DIR$/class002/target/classes/mybatis.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +32,20 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1dbqL3GSbWTBzmobIFYTZe86h7Q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -24,13 +54,37 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/class003/src/main/resources" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\test\mybatisCache\mybatisCache\class003\src\main\resources" />
+      <recent name="E:\test\mybatisCache\mybatisCache\class003\src\main\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\test\mybatisCache\mybatisCache\class003\src\main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TempTest.testPage">
+    <configuration name="TempTest.test (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="class003" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TempTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TempTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="class002" />
       <option name="PACKAGE_NAME" value="" />
@@ -41,8 +95,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TempTest.testPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="class003" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TempTest" />
+      <option name="METHOD_NAME" value="testPage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TempTest.testParam" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="class003" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TempTest" />
+      <option name="METHOD_NAME" value="testParam" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TempTest.testPage" />
+        <item itemvalue="JUnit.TempTest.testParam" />
+        <item itemvalue="JUnit.TempTest.test (1)" />
         <item itemvalue="JUnit.TempTest.test" />
       </list>
     </recent_temporary>
@@ -58,11 +135,25 @@
       <option name="presentableId" value="Default" />
       <updated>1592704081369</updated>
       <workItem from="1592704084165" duration="4759000" />
+      <workItem from="1592835652803" duration="717000" />
+      <workItem from="1593132598200" duration="4303000" />
     </task>
+    <task id="LOCAL-00001" summary="提交sql文件">
+      <created>1592835690590</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592835690590</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="提交sql文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交sql文件" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1018" y="239" key="#Project_Structure" timestamp="1592705328446">
@@ -73,25 +164,57 @@
       <screen x="0" y="0" width="1834" height="1080" />
     </state>
     <state x="1232" y="465" key="#com.intellij.ide.util.MemberChooser/0.0.1834.1080@0.0.1834.1080" timestamp="1592706005319" />
-    <state width="1791" height="245" key="GridCell.Tab.0.bottom" timestamp="1592835181392">
+    <state x="1151" y="746" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1593133716851">
       <screen x="0" y="0" width="1834" height="1080" />
     </state>
-    <state width="1791" height="245" key="GridCell.Tab.0.bottom/0.0.1834.1080@0.0.1834.1080" timestamp="1592835181392" />
-    <state width="1791" height="245" key="GridCell.Tab.0.center" timestamp="1592835181392">
+    <state x="1151" y="746" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1834.1080@0.0.1834.1080" timestamp="1593133716851" />
+    <state x="1320" y="706" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1593133675939">
       <screen x="0" y="0" width="1834" height="1080" />
     </state>
-    <state width="1791" height="245" key="GridCell.Tab.0.center/0.0.1834.1080@0.0.1834.1080" timestamp="1592835181392" />
-    <state width="1791" height="245" key="GridCell.Tab.0.left" timestamp="1592835181392">
+    <state x="1320" y="706" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1834.1080@0.0.1834.1080" timestamp="1593133675939" />
+    <state x="529" y="131" key="CommitChangelistDialog2" timestamp="1592835689749">
       <screen x="0" y="0" width="1834" height="1080" />
     </state>
-    <state width="1791" height="245" key="GridCell.Tab.0.left/0.0.1834.1080@0.0.1834.1080" timestamp="1592835181392" />
-    <state width="1791" height="245" key="GridCell.Tab.0.right" timestamp="1592835181392">
+    <state x="529" y="131" key="CommitChangelistDialog2/0.0.1834.1080@0.0.1834.1080" timestamp="1592835689749" />
+    <state width="1791" height="263" key="GridCell.Tab.0.bottom" timestamp="1593138591420">
       <screen x="0" y="0" width="1834" height="1080" />
     </state>
-    <state width="1791" height="245" key="GridCell.Tab.0.right/0.0.1834.1080@0.0.1834.1080" timestamp="1592835181392" />
-    <state x="546" y="463" key="new project wizard" timestamp="1592704170526">
+    <state width="1791" height="263" key="GridCell.Tab.0.bottom/0.0.1834.1080@0.0.1834.1080" timestamp="1593138591420" />
+    <state width="1791" height="263" key="GridCell.Tab.0.center" timestamp="1593138591420">
       <screen x="0" y="0" width="1834" height="1080" />
     </state>
-    <state x="546" y="463" key="new project wizard/0.0.1834.1080@0.0.1834.1080" timestamp="1592704170526" />
+    <state width="1791" height="263" key="GridCell.Tab.0.center/0.0.1834.1080@0.0.1834.1080" timestamp="1593138591420" />
+    <state width="1791" height="263" key="GridCell.Tab.0.left" timestamp="1593138591420">
+      <screen x="0" y="0" width="1834" height="1080" />
+    </state>
+    <state width="1791" height="263" key="GridCell.Tab.0.left/0.0.1834.1080@0.0.1834.1080" timestamp="1593138591420" />
+    <state width="1791" height="263" key="GridCell.Tab.0.right" timestamp="1593138591420">
+      <screen x="0" y="0" width="1834" height="1080" />
+    </state>
+    <state width="1791" height="263" key="GridCell.Tab.0.right/0.0.1834.1080@0.0.1834.1080" timestamp="1593138591420" />
+    <state width="1774" height="363" key="GridCell.Tab.1.bottom" timestamp="1593134349112">
+      <screen x="0" y="0" width="1834" height="1080" />
+    </state>
+    <state width="1774" height="363" key="GridCell.Tab.1.bottom/0.0.1834.1080@0.0.1834.1080" timestamp="1593134349112" />
+    <state width="1774" height="363" key="GridCell.Tab.1.center" timestamp="1593134349112">
+      <screen x="0" y="0" width="1834" height="1080" />
+    </state>
+    <state width="1774" height="363" key="GridCell.Tab.1.center/0.0.1834.1080@0.0.1834.1080" timestamp="1593134349112" />
+    <state width="1774" height="363" key="GridCell.Tab.1.left" timestamp="1593134349112">
+      <screen x="0" y="0" width="1834" height="1080" />
+    </state>
+    <state width="1774" height="363" key="GridCell.Tab.1.left/0.0.1834.1080@0.0.1834.1080" timestamp="1593134349112" />
+    <state width="1774" height="363" key="GridCell.Tab.1.right" timestamp="1593134349112">
+      <screen x="0" y="0" width="1834" height="1080" />
+    </state>
+    <state width="1774" height="363" key="GridCell.Tab.1.right/0.0.1834.1080@0.0.1834.1080" timestamp="1593134349112" />
+    <state x="509" y="276" key="Vcs.Push.Dialog.v2" timestamp="1592835692470">
+      <screen x="0" y="0" width="1834" height="1080" />
+    </state>
+    <state x="509" y="276" key="Vcs.Push.Dialog.v2/0.0.1834.1080@0.0.1834.1080" timestamp="1592835692470" />
+    <state x="432" y="440" key="new project wizard" timestamp="1593133636669">
+      <screen x="0" y="0" width="1834" height="1080" />
+    </state>
+    <state x="432" y="440" key="new project wizard/0.0.1834.1080@0.0.1834.1080" timestamp="1593133636669" />
   </component>
 </project>

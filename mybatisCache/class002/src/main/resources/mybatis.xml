@@ -4,8 +4,8 @@
 
 <configuration>
     <!--环境配置，连接的数据库，这里使用的是MySQL-->
-    <environments default="mysql">
-        <environment id="mysql">
+    <environments default="dev">
+        <environment id="dev">
             <!--指定事务管理的类型，这里简单使用Java的JDBC的提交和回滚设置-->
             <transactionManager type="JDBC"></transactionManager>
             <!--dataSource 指连接源配置，POOLED是JDBC连接对象的数据源连接池的实现-->
