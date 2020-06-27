@@ -2,21 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="edc97de4-ef80-4567-b219-e5234ad30be0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class003/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class003/src/main/java/dao/Temp2Dao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class003/src/main/java/entity/TempEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class003/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class003/src/main/resources/mappers/tempMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class003/src/main/resources/mybatis.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class003/src/main/resources/temp.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class003/src/test/java/TempTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class004/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class004/src/main/java/dao/Temp03Dao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class004/src/main/java/entity/TempEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class004/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class004/src/main/resources/mappers/tempMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class004/src/main/resources/mybatis.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class004/src/main/resources/temp.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class004/src/test/java/TempTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class002/class002.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class002/src/main/resources/mybatis.xml" beforeDir="false" afterPath="$PROJECT_DIR$/class002/src/main/resources/mybatis.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class002/target/classes/mybatis.xml" beforeDir="false" afterPath="$PROJECT_DIR$/class002/target/classes/mybatis.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,36 +52,29 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/class003/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/class004/src/main/resources" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\test\mybatisCache\mybatisCache\class003\src\main\resources" />
-      <recent name="E:\test\mybatisCache\mybatisCache\class003\src\main\java" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\test\mybatisCache\mybatisCache\class003\src\main" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="entity" />
+      <recent name="dao" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\test\mybatisCache\mybatisCache\class004\src\main\resources" />
+      <recent name="E:\test\mybatisCache\mybatisCache\class003\src\main\resources" />
+      <recent name="E:\test\mybatisCache\mybatisCache\class003\src\main\java" />
+    </key>
   </component>
-  <component name="RunManager" selected="JUnit.TempTest.testPage">
-    <configuration name="TempTest.test (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="class003" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TempTest" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.TempTest.testForUpdate">
     <configuration name="TempTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="class002" />
+      <module name="class004" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TempTest" />
       <option name="METHOD_NAME" value="test" />
@@ -95,21 +83,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TempTest.testPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="class003" />
+    <configuration name="TempTest.testClearCatch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="class004" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TempTest" />
-      <option name="METHOD_NAME" value="testPage" />
+      <option name="METHOD_NAME" value="testClearCatch" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TempTest.testParam" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="class003" />
+    <configuration name="TempTest.testCommit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="class004" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TempTest" />
-      <option name="METHOD_NAME" value="testParam" />
+      <option name="METHOD_NAME" value="testCommit" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TempTest.testForUpdate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="class004" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TempTest" />
+      <option name="METHOD_NAME" value="testForUpdate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TempTest.testRollback" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="class004" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TempTest" />
+      <option name="METHOD_NAME" value="testRollback" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -117,9 +125,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TempTest.testPage" />
-        <item itemvalue="JUnit.TempTest.testParam" />
-        <item itemvalue="JUnit.TempTest.test (1)" />
+        <item itemvalue="JUnit.TempTest.testForUpdate" />
+        <item itemvalue="JUnit.TempTest.testClearCatch" />
+        <item itemvalue="JUnit.TempTest.testRollback" />
+        <item itemvalue="JUnit.TempTest.testCommit" />
         <item itemvalue="JUnit.TempTest.test" />
       </list>
     </recent_temporary>
@@ -136,7 +145,8 @@
       <updated>1592704081369</updated>
       <workItem from="1592704084165" duration="4759000" />
       <workItem from="1592835652803" duration="717000" />
-      <workItem from="1593132598200" duration="4303000" />
+      <workItem from="1593132598200" duration="4659000" />
+      <workItem from="1593159394887" duration="5635000" />
     </task>
     <task id="LOCAL-00001" summary="提交sql文件">
       <created>1592835690590</created>
@@ -145,7 +155,28 @@
       <option name="project" value="LOCAL" />
       <updated>1592835690590</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="一级缓存提交">
+      <created>1593138659094</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1593138659094</updated>
+    </task>
+    <task id="LOCAL-00003" summary="一级缓存提交2">
+      <created>1593138754316</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1593138754316</updated>
+    </task>
+    <task id="LOCAL-00004" summary="增加ignore">
+      <created>1593138900426</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1593138900426</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,7 +184,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="提交sql文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="提交sql文件" />
+    <MESSAGE value="一级缓存提交" />
+    <MESSAGE value="一级缓存提交2" />
+    <MESSAGE value="增加ignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加ignore" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1018" y="239" key="#Project_Structure" timestamp="1592705328446">
@@ -172,49 +206,49 @@
       <screen x="0" y="0" width="1834" height="1080" />
     </state>
     <state x="1320" y="706" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1834.1080@0.0.1834.1080" timestamp="1593133675939" />
-    <state x="529" y="131" key="CommitChangelistDialog2" timestamp="1593138743409">
+    <state x="529" y="131" key="CommitChangelistDialog2" timestamp="1593138899863">
       <screen x="0" y="0" width="1834" height="1080" />
     </state>
-    <state x="529" y="131" key="CommitChangelistDialog2/0.0.1834.1080@0.0.1834.1080" timestamp="1593138743409" />
-    <state width="1791" height="263" key="GridCell.Tab.0.bottom" timestamp="1593138591420">
+    <state x="529" y="131" key="CommitChangelistDialog2/0.0.1834.1080@0.0.1834.1080" timestamp="1593138899863" />
+    <state width="1774" height="186" key="GridCell.Tab.0.bottom" timestamp="1593175856965">
       <screen x="0" y="0" width="1834" height="1080" />
     </state>
-    <state width="1791" height="263" key="GridCell.Tab.0.bottom/0.0.1834.1080@0.0.1834.1080" timestamp="1593138591420" />
-    <state width="1791" height="263" key="GridCell.Tab.0.center" timestamp="1593138591420">
+    <state width="1774" height="186" key="GridCell.Tab.0.bottom/0.0.1834.1080@0.0.1834.1080" timestamp="1593175856965" />
+    <state width="1774" height="186" key="GridCell.Tab.0.center" timestamp="1593175856965">
       <screen x="0" y="0" width="1834" height="1080" />
     </state>
-    <state width="1791" height="263" key="GridCell.Tab.0.center/0.0.1834.1080@0.0.1834.1080" timestamp="1593138591420" />
-    <state width="1791" height="263" key="GridCell.Tab.0.left" timestamp="1593138591420">
+    <state width="1774" height="186" key="GridCell.Tab.0.center/0.0.1834.1080@0.0.1834.1080" timestamp="1593175856965" />
+    <state width="1774" height="186" key="GridCell.Tab.0.left" timestamp="1593175856965">
       <screen x="0" y="0" width="1834" height="1080" />
     </state>
-    <state width="1791" height="263" key="GridCell.Tab.0.left/0.0.1834.1080@0.0.1834.1080" timestamp="1593138591420" />
-    <state width="1791" height="263" key="GridCell.Tab.0.right" timestamp="1593138591420">
+    <state width="1774" height="186" key="GridCell.Tab.0.left/0.0.1834.1080@0.0.1834.1080" timestamp="1593175856965" />
+    <state width="1774" height="186" key="GridCell.Tab.0.right" timestamp="1593175856965">
       <screen x="0" y="0" width="1834" height="1080" />
     </state>
-    <state width="1791" height="263" key="GridCell.Tab.0.right/0.0.1834.1080@0.0.1834.1080" timestamp="1593138591420" />
-    <state width="1774" height="363" key="GridCell.Tab.1.bottom" timestamp="1593134349112">
+    <state width="1774" height="186" key="GridCell.Tab.0.right/0.0.1834.1080@0.0.1834.1080" timestamp="1593175856965" />
+    <state width="1774" height="186" key="GridCell.Tab.1.bottom" timestamp="1593175856965">
       <screen x="0" y="0" width="1834" height="1080" />
     </state>
-    <state width="1774" height="363" key="GridCell.Tab.1.bottom/0.0.1834.1080@0.0.1834.1080" timestamp="1593134349112" />
-    <state width="1774" height="363" key="GridCell.Tab.1.center" timestamp="1593134349112">
+    <state width="1774" height="186" key="GridCell.Tab.1.bottom/0.0.1834.1080@0.0.1834.1080" timestamp="1593175856965" />
+    <state width="1774" height="186" key="GridCell.Tab.1.center" timestamp="1593175856965">
       <screen x="0" y="0" width="1834" height="1080" />
     </state>
-    <state width="1774" height="363" key="GridCell.Tab.1.center/0.0.1834.1080@0.0.1834.1080" timestamp="1593134349112" />
-    <state width="1774" height="363" key="GridCell.Tab.1.left" timestamp="1593134349112">
+    <state width="1774" height="186" key="GridCell.Tab.1.center/0.0.1834.1080@0.0.1834.1080" timestamp="1593175856965" />
+    <state width="1774" height="186" key="GridCell.Tab.1.left" timestamp="1593175856965">
       <screen x="0" y="0" width="1834" height="1080" />
     </state>
-    <state width="1774" height="363" key="GridCell.Tab.1.left/0.0.1834.1080@0.0.1834.1080" timestamp="1593134349112" />
-    <state width="1774" height="363" key="GridCell.Tab.1.right" timestamp="1593134349112">
+    <state width="1774" height="186" key="GridCell.Tab.1.left/0.0.1834.1080@0.0.1834.1080" timestamp="1593175856965" />
+    <state width="1774" height="186" key="GridCell.Tab.1.right" timestamp="1593175856965">
       <screen x="0" y="0" width="1834" height="1080" />
     </state>
-    <state width="1774" height="363" key="GridCell.Tab.1.right/0.0.1834.1080@0.0.1834.1080" timestamp="1593134349112" />
-    <state x="509" y="276" key="Vcs.Push.Dialog.v2" timestamp="1593138660832">
+    <state width="1774" height="186" key="GridCell.Tab.1.right/0.0.1834.1080@0.0.1834.1080" timestamp="1593175856965" />
+    <state x="509" y="276" key="Vcs.Push.Dialog.v2" timestamp="1593138902150">
       <screen x="0" y="0" width="1834" height="1080" />
     </state>
-    <state x="509" y="276" key="Vcs.Push.Dialog.v2/0.0.1834.1080@0.0.1834.1080" timestamp="1593138660832" />
-    <state x="432" y="440" key="new project wizard" timestamp="1593133636669">
+    <state x="509" y="276" key="Vcs.Push.Dialog.v2/0.0.1834.1080@0.0.1834.1080" timestamp="1593138902150" />
+    <state x="432" y="440" key="new project wizard" timestamp="1593159668695">
       <screen x="0" y="0" width="1834" height="1080" />
     </state>
-    <state x="432" y="440" key="new project wizard/0.0.1834.1080@0.0.1834.1080" timestamp="1593133636669" />
+    <state x="432" y="440" key="new project wizard/0.0.1834.1080@0.0.1834.1080" timestamp="1593159668695" />
   </component>
 </project>
